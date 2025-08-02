@@ -1,0 +1,16 @@
+{
+    "Name": "Melvin S",
+    "Email": "melvinsolomon200@gmail.com",
+    "Phone": "9841441490",
+    "Degree": null,
+    "Institution": "SaveethaEngineeringCollege,Chennai,TamilNadu",
+    "Skills": [
+        "CSS"
+    ],
+    "Experience": [
+        {
+            "Description": "ProductRecommendationSystem",
+            "Year": "2024"
+        }
+    ]
+}
